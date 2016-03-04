@@ -11,4 +11,8 @@ public class Test2 {
 		System.out.println("new class file!");
 	}
 	
+	public void myMethod(){
+		System.out.println("XiaGuobingDev分支添加了方法");
+	}
+	
 }
